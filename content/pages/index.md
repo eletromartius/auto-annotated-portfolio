@@ -17,9 +17,10 @@ sections:
       Sou desenvolvedor, artista digital, consultor e um monte de outros títulos
       impressionantes e palavras da moda.
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      Estas são as minhas informações — estou compartilhando tudo isso com vocês
+      para impressioná-los com todo o trabalho duro que fiz nos últimos anos.
+      Quando estiver impressionado, você pode continuar rolando para baixo para
+      ver mais detalhes e credenciais sobre mim.
     styles:
       self:
         height: auto
